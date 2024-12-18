@@ -1,5 +1,5 @@
-![Executioner Bot](https://raw.githubusercontent.com/Central-IntelligenceAgency/BotExecutioner/refs/heads/master/foto/the_executioner.jpg)
 # Bot Executioner 🤖⚖️
+![Executioner Bot](https://raw.githubusercontent.com/Central-IntelligenceAgency/BotExecutioner/refs/heads/master/foto/the_executioner.jpg)
 
 ## Об боте
 Этот бот — ваш личный помощник в выборе тех, кто будет выбран дежурным в классе. Зачем тратить время на споры и бесконечные вопросы, когда можно доверить эту важную задачу судьбе? 
